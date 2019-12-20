@@ -1,1 +1,5 @@
 https://github.com/mojocorp/QProgressIndicator
+
+QGIS 
+https://gis.stackexchange.com/questions/189044/qgis-c-hello-world-example
+http://download.osgeo.org/qgis/doc/manual/qgis-1.1.0_coding-compilation_guide_en.pdf
